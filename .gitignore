@@ -1,0 +1,14 @@
+# Local config (contains machine-specific Python env settings)
+.claude/skills/lab-report/config.json
+.claude/settings.local.json
+
+# Generated reports (large files)
+reports/
+ex*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.mp4
+_extract.py
+CLAUDE.md
