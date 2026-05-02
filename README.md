@@ -51,12 +51,12 @@ conda install -n report python-pptx -y
 
 **参数说明：**
 
-| 参数 | 说明 | 必填 |
-|------|------|------|
-| 实验代码路径 | 你的实验代码文件（.py/.c/.m 等） | 是 |
-| 实验结果图片目录 | 包含实验结果截图的文件夹 | 是 |
-| 实验 PPT 路径 | 实验指导 PPT 文件 | 是 |
-| 实验标题 | 报告标题，不填则从 PPT 推断 | 否 |
+| 参数             | 说明                             | 必填 |
+| ---------------- | -------------------------------- | ---- |
+| 实验代码路径     | 你的实验代码文件（.py/.c/.m 等） | 是   |
+| 实验结果图片目录 | 包含实验结果截图的文件夹         | 是   |
+| 实验 PPT 路径    | 实验指导 PPT 文件                | 是   |
+| 实验标题         | 报告标题，不填则从 PPT 推断      | 否   |
 
 运行后 skill 会自动询问学号、姓名、专业、课程名称等封面信息。
 
@@ -131,7 +131,7 @@ skill 会自动维护一个 `config.json` 配置文件，记录：
 
 ## 模板来源
 
-本项目使用的 LaTeX 模板基于 [Template-for-AHU-report](https://github.com/Trinkle23897/Template-for-AHU-report)，感谢原作者的贡献。
+本项目使用的 LaTeX 模板基于 [Template-for-AHU-report](https://github.com/nchmz/Template-for-AHU-report)，感谢原作者的贡献。
 
 ## 致谢
 
