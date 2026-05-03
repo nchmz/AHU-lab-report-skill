@@ -135,4 +135,4 @@ skill 会自动维护一个 `config.json` 配置文件，记录：
 
 ## 致谢
 
-感谢小米 100t 开源活动提供的算力支持，让本项目得以在 Claude Code 的强大能力下快速迭代和开发。本项目基于小米 MiMo-V2.5-Pro 模型驱动，活动详情请访问：[小米 100t 开源活动](https://100t.xiaomimimo.com/)。
+感谢Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划支持，让本项目得以在 Claude Code 的强大能力下快速迭代和开发。本项目基于小米 MiMo-V2.5-Pro 模型驱动，活动详情请访问：[Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划](https://100t.xiaomimimo.com/)。
